@@ -35,6 +35,3 @@
    <h2>📄 Licença</h2>
     <p>Este projeto foi criado apenas para fins educacionais e não possui fins comerciais.</p>
 
-  <hr>
-    <p><strong>Se precisar de mais alguma modificação ou quiser adicionar algo, me avise! 🚀😃</strong></p>
-
